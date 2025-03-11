@@ -1,4 +1,4 @@
-<h1 align="center">Incremental Structural Adaptation for Camouflaged Object Detection</h1>
+<h1 align="center">Unified Cross-Domain Fusion and Iterative Refinement for Camouflaged Object Detection</h1>
 
 
 ## News :newspaper:
@@ -14,7 +14,7 @@ To use this repository, follow the steps below to set up the environment:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vstar37/SANet.git
+   git clone https://github.com/lining118/IR-CDFNet.git
    cd SANet
 
 2.	**Install the required dependencies:**
