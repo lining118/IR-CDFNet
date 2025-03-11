@@ -15,7 +15,7 @@ To use this repository, follow the steps below to set up the environment:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/lining118/IR-CDFNet.git
-   cd SANet
+   cd IR-CDFNet
 
 2.	**Install the required dependencies:**
     It is recommended to create a virtual environment first, then install the dependencies.
